@@ -18,6 +18,7 @@ Contents:
    MBR Interpolation
    Filament Polygon Interpolation
    Extrapolation
+   Authors
 
 
 Indices and tables
