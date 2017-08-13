@@ -18,6 +18,7 @@ Contents:
    MBR Interpolation
    Filament Polygon Interpolation
    Extrapolation
+   SOLEV: Solar Event Video Generator
    Authors
 
 
